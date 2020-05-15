@@ -1,0 +1,12 @@
+C:\Users\breat\source\repos\Concert\Concert\bin\Debug\Concert.exe.config
+C:\Users\breat\source\repos\Concert\Concert\bin\Debug\Concert.exe
+C:\Users\breat\source\repos\Concert\Concert\bin\Debug\Concert.pdb
+C:\Users\breat\source\repos\Concert\Concert\bin\Debug\Concert.xml
+C:\Users\breat\source\repos\Concert\Concert\obj\Debug\Concert.vbprojAssemblyReference.cache
+C:\Users\breat\source\repos\Concert\Concert\obj\Debug\Concert.Form1.resources
+C:\Users\breat\source\repos\Concert\Concert\obj\Debug\Concert.Resources.resources
+C:\Users\breat\source\repos\Concert\Concert\obj\Debug\Concert.vbproj.GenerateResource.cache
+C:\Users\breat\source\repos\Concert\Concert\obj\Debug\Concert.vbproj.CoreCompileInputs.cache
+C:\Users\breat\source\repos\Concert\Concert\obj\Debug\Concert.exe
+C:\Users\breat\source\repos\Concert\Concert\obj\Debug\Concert.xml
+C:\Users\breat\source\repos\Concert\Concert\obj\Debug\Concert.pdb
